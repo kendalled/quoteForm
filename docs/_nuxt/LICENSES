@@ -1,32 +1,4 @@
 /*!
- * vue-filepond v6.0.2
- * A handy FilePond adapter component for Vue
- * 
- * Copyright (c) 2020 PQINA
- * https://pqina.nl/filepond
- * 
- * Licensed under the MIT license.
- */
-
-/*!
- * FilePond 4.9.5
- * Licensed under MIT, https://opensource.org/licenses/MIT/
- * Please visit https://pqina.nl/filepond/ for details.
- */
-
-/*!
- * FilePondPluginFileValidateType 1.2.4
- * Licensed under MIT, https://opensource.org/licenses/MIT/
- * Please visit https://pqina.nl/filepond/ for details.
- */
-
-/*!
- * FilePondPluginImagePreview 4.6.0
- * Licensed under MIT, https://opensource.org/licenses/MIT/
- * Please visit https://pqina.nl/filepond/ for details.
- */
-
-/*!
  * GSAP 3.0.5
  * https://greensock.com
  *
