@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{212:function(t,l,e){"use strict";e.r(l);var n={components:{TestScroll:e(178).a}},c=e(19),component=Object(c.a)(n,(function(){var t=this.$createElement,l=this._self._c||t;return l("div",{staticClass:"w-full h-auto"},[l("TestScroll")],1)}),[],!1,null,null,null);l.default=component.exports}}]);
